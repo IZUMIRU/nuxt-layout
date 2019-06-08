@@ -2,6 +2,8 @@
 
 > Nuxt.js project
 
+![0fcffaf9c190f0e3fedc9d4ab30be234](https://user-images.githubusercontent.com/11635641/58920535-9a372100-876d-11e9-81e6-658d128d6cad.gif)
+
 ## Build Setup
 
 ``` bash
